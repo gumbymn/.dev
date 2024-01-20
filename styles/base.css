@@ -3,6 +3,7 @@ body {
     color: white;
     margin-left: auto;
     margin-right: auto;
+    position: absolute;
 }
 
 h1 {
@@ -16,5 +17,6 @@ h2 {
 }
 
 p {
-    margin-top: 0px;
+    margin-top: -10px;
+    padding-top: 0px;
 }
