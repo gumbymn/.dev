@@ -13,3 +13,6 @@ h2 {
     color: white;
 }
 
+p {
+    padding-top: -5px;
+}
