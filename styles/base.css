@@ -4,6 +4,7 @@ body {
     color: white;
     position: absolute;
     padding-top: 20px;
+    vertical-align: middle;
 }
 
 h1 {
