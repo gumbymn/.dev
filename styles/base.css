@@ -5,7 +5,8 @@ body {
     position: absolute;
     padding-top: 20px;
     vertical-align: middle;
-    margin: 0 auto;
+    justify-content: center;
+    align-content: center;
 }
 
 h1 {
